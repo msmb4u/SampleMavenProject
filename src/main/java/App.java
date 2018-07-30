@@ -12,7 +12,7 @@ public class App {
 	
 	static void display(int x,int y){
 		int c;
-		c =x+y;
+		c =x+y+;
 		System.out.println("Count of "+c);
 		int i =0;
 		while(x>i){
